@@ -1,13 +1,11 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hello, I'm João and I'm a software engineer that also likes to read, write and take pictures while traveling.
+I'm a believer in life long learning and that people should be able to do what they love in their lives. Coincidentally I also believe we should love more than one thing and do more than one thing during our lives.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I'm an avid reader of non fiction in the intersection of the technology, psychology and business fields along with science fiction and fantasy which give me room to escape from the real world and renew my imagination and creativity.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+>“(...) because he had no place he could stay in without getting tired of it and because there was nowhere to go but everywhere, keep rolling under the stars (...)” ― Jack Kerouac, On the Road
