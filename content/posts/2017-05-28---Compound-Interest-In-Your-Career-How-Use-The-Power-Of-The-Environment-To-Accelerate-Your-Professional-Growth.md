@@ -1,5 +1,5 @@
 ---
-title: Compound Interest in Your Career: How to Use the Power of the Environment to Accelerate Your Professional Growth
+title: Compound Interest in Your Career\: How to Use the Power of the Environment to Accelerate Your Professional Growth
 date: "2017-05-28T11:36:15+00:00"
 template: "post"
 draft: false

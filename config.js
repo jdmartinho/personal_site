@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'João Martinho',
-    photo: '/photo.jpg',
+    photo: '/media/photo.jpg',
     bio: 'I\'m a software professional that likes to read, write and share what has learned.',
     contacts: {
       email: '',
@@ -45,7 +45,8 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       managerreadme: 'jdmartinho',
-      stackshare: 'jdmartinho/my-stack'
+      stackshare: 'jdmartinho/my-stack',
+      goodreads: 'jdmartinho'
     }
   }
 };

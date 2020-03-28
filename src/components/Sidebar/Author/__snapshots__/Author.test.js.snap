@@ -10,9 +10,9 @@ exports[`Author renders correctly 1`] = `
     <img
       alt="test"
       className="author__photo"
-      height="75"
-      src="/photo.jpg"
-      width="75"
+      height="150"
+      src="/media/photo.jpg"
+      width="150"
     />
   </a>
   <h2

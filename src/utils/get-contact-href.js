@@ -51,6 +51,9 @@ const getContactHref = (name: string, contact: string) => {
     case 'stackshare':
         href = `https://stackshare.io/${contact}`;
         break;
+    case 'goodreads':
+        href = `https://www.goodreads.com/${contact}`;
+        break;
     default:
       href = contact;
       break;

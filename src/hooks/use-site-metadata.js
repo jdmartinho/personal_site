@@ -29,6 +29,7 @@ const useSiteMetadata = () => {
                 soundcloud
                 managerreadme
                 stackshare
+                goodreads
               }
             }
             menu {
