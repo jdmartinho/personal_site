@@ -1,6 +1,7 @@
 ---
 title: "About me"
 template: "page"
+socialImage: ""
 ---
 
 Hello, I'm João and I'm a software engineer that also likes to read, write and take pictures while traveling.
