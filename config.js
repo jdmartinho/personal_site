@@ -45,6 +45,7 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       managerreadme: 'jdmartinho',
+      stackshare: 'jdmartinho/my-stack'
     }
   }
 };

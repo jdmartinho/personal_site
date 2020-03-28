@@ -53,6 +53,9 @@ const getIcon = (name: string) => {
     case 'managerreadme':
       icon = ICONS.MANAGERREADME;
       break;
+    case 'stackshare':
+      icon = ICONS.STACKSHARE;
+      break;
     default:
       icon = {};
       break;

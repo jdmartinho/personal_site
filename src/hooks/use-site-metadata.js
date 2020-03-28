@@ -28,6 +28,7 @@ const useSiteMetadata = () => {
                 youtube
                 soundcloud
                 managerreadme
+                stackshare
               }
             }
             menu {

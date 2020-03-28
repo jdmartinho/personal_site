@@ -48,6 +48,9 @@ const getContactHref = (name: string, contact: string) => {
     case 'managerreadme':
         href = `https://managerreadme.com/readme/${contact}`;
         break;
+    case 'stackshare':
+        href = `https://stackshare.io/${contact}`;
+        break;
     default:
       href = contact;
       break;
