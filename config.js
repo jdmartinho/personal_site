@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'João Martinho',
     photo: '/media/photo.jpg',
-    bio: 'I\'m a software professional that likes to read, write and share what has learned.',
+    bio: 'I\'m a software professional with experience in different fields in the IT landscape always being involved in one way or another in Software Development, developing and testing code, leading and managing engineers. ',
     contacts: {
       email: '',
       facebook: '',
